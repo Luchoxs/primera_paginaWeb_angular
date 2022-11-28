@@ -1,0 +1,46 @@
+.mapa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    text-align: center;
+    margin: auto;
+}
+.servicios h4{
+    font-family: 'Nerko One', cursive;
+}
+.aside_t{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.card{
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    margin-bottom: 10px;
+   
+}
+
+.card h4{
+    font-family: 'Nerko One', cursive;
+}
+.card a{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.card_image{
+    width: 40%;
+    height: 100%;
+    margin: auto;
+}
+.card_image img{
+    
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

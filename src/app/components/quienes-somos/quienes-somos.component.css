@@ -1,0 +1,64 @@
+
+.texto_main{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    text-align: justify;
+}
+.texto_main h1{
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Nerko One', cursive;
+}
+.texto_main p {
+margin-top: 15px;
+margin-bottom: 15px;
+}
+.texto_main ul{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.farmavida{
+    background-color: rgb(98, 155, 255);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 12px 12px 20px black;
+    margin-top: 30px;
+}
+.aside_t{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-around;
+    border-radius: 10px;
+}
+.card{
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    margin-bottom: 10px;
+   
+}
+
+.card h4{
+    font-family: 'Nerko One', cursive;;
+}
+.card a{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.card_image{
+    width: 40%;
+    height: 100%;
+    margin: auto;
+}
+.card_image img{
+    
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
